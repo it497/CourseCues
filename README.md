@@ -4,8 +4,8 @@
 
 <body>
 # CourseCues
-This is my Graduate project </br>
-<a href="http://google.com"> google.com </a>
+This is my Graduate directed project. The web application was built using shiny - package from R studio.  </br>
+
 
 
 </body>
